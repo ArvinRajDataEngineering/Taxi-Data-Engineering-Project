@@ -2,7 +2,7 @@
 NYC Taxi Data Engineering Project Using Databricks and ADF
 
 ## Introduction
-This project builds a modern data pipeline using Azure Data Factory,Azure Databricks, Azure Synapse Analytics to ingest, transform, and analyze NYC Taxi trip data. It demonstrates scalable cloud-based data engineering practices with real-time and batch processing capabilities.
+This project builds a modern data pipeline using Azure Data Factory,Azure Databricks to ingest, transform, and analyze NYC Taxi data. It demonstrates scalable cloud-based data engineering practices with real-time and batch processing capabilities.
 
 ## Medallion architecture
 ![Image](https://github.com/user-attachments/assets/f1199b1d-e543-4f62-a757-8468bb698f86)
